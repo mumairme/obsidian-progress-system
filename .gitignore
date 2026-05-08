@@ -1,0 +1,12 @@
+# Obsidian local workspace state
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+
+# Installed plugin source files
+.obsidian/plugins/
+
+# OS and editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
